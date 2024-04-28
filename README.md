@@ -19,3 +19,9 @@ $ whereami
 $ whyami # praise the lord
 	${Holy Bible | less}
 ```
+
+## Executing
+
+```bash
+curl https://raw.githubusercontent.com/notwithering/wwwww/main/wwwww.sh | sh
+```
